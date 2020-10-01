@@ -1,0 +1,36 @@
+---
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Variables:
+                las variables son contenedores donde eventualmente podemos guardar cosas de diferentes tipos o variedad,
+                deben tener un nombre,
+                el cual se recomienda tenga sentido (sea descriptivo del objeto que contiene), ejemplo varieble auto = 'chevrolet'.
+                este contenedor sera variable como su nombre lo indica en contenido, este podra ir cambiando por ejemolo auto = 'ford'.
+                este seria el concepto.
+
+	* Strings:
+             la palabra string que significa 'cadena' nos da una pista de que es un string , bueno estas cadenas se utilizan
+             para guardar texto, o dato tipo texto, paralabras, parrafos, letras, numeros.
+
+	* Funciones (argumentos, `return`):
+                                    las funciones son formas de procesar la informacion y llegar a un resultado esperado, veamos
+                                    si quiero preparar una torta, seguramente hay una receta donde esplicara los pasos que se deben
+                                    seguir para realizar la misma. las fuciones trabajan parecido realizan una serie de pasos con los metadatos
+                                    que nosostros queremos y obtnemos un resultado. ej si tengo 3 alumnos y quiero saber cuantos caramelos tengo
+                                    que darle a cada uno, puedo crear un metod 'repartir' el cual toma la cantidad de caramelos y la cantidad de
+                                    alumno y me devuelve cuatos caramelos tengo que darle a cada uno.
+
+  * Declaraciones `if`:
+                        una declarion 'if' es una condicion que podemos colocar en nuestro codigo para que este se ejecute o no,
+                        como seria esto , bueno facil el 'if' es como un 'si' , exacto 'si' pasa tal cosa entonses hacemos 'tal otra' y 'si' no
+                        pasa pues no hacemos dicha 'cosa' y seguimos con nuestro codigo. como cuando te dicen si haces la tareas aprobas el curso,
+                        y si no haces la tarea , pues bueno no aprobas.
+
+
+	* Valores booleanos (`true`, `false`):
+                                        los valores booleanos 'true and false' son valores 'verdadero y falso' que podemos hacer con estos
+                                        pues en realidad mucho. veamos podemos asignarle a una variable los valores boolenos y a partir
+                                        de estos valores podemos actuar o tomar deciciones tipo 'if', pero vasicamente los valores boolenaos
+                                        ponderan su grado de 'verdad' , ejemplo si necesitamos saber si en una lista de autos hay algun auto
+                                        de color rojo, y no nos interesa de que modelo de que marca o otra caracteristica, podemos hacer una
+                                        consulta que nos devuelva 'true' si hay almenos uno y 'false' si no hay ninguno.
