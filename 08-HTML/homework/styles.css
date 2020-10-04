@@ -1,0 +1,32 @@
+body{
+  background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSZ7qrigIF6hqw70vcCVyv9D2nuqOWYNIX12g&usqp=CAU");
+
+}
+h1, h3, h4{
+  color:blue;
+  font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+}
+img{
+  width:400px;
+  height: 250px;
+}
+#contenido{
+          display:flex;
+          flex-direction:row;
+          flex-wrap:wrap;
+          justify-content:center;
+          }
+          
+#thirdDiv{
+  background: red;
+  padding:50px;
+  border: 1px solid black;
+  height:600px;
+  width: 500px;
+
+}
+#spanId{
+  font-size: 18px;
+  margin: 50px;
+  color: white;
+}
